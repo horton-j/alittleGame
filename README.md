@@ -1,2 +1,2 @@
 # alittleGame
-I'm trying practise C.
+I'm trying to practise C.
